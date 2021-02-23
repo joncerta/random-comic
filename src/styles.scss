@@ -1,0 +1,14 @@
+.full-content {
+  height: 95vh;
+  display: grid;
+  align-items: center;
+  .content-comic {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    height: auto;
+    .rate {
+      justify-self: center;
+    }
+  }
+}
